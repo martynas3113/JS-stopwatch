@@ -1,6 +1,6 @@
-#Stopwatch#
+# Stopwatch
 
-##Features : <br>
+## Features : <br>
 
 - module design
 - start,stop,reset buttons
