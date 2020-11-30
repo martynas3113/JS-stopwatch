@@ -1,0 +1,37 @@
+body {
+    background-color: orange;
+}
+
+.container {
+    text-align: center;
+    margin: 150px auto;
+    height: 100vh;
+    background-color: orange;
+}
+
+    .container > h1 {
+        font-size: 60px;
+        color: white;
+    }
+
+    .container > p {
+        font-size: 30px;
+        margin: 20px;
+    }
+
+    .container > button {
+        padding: 10px 30px;
+        width: 130px;
+        margin: 10px;
+        background-color: transparent;
+        outline: none;
+        border: 1px solid white;
+        font-size: 20px;
+        color: white;
+        border-radius: 10px;
+    }
+        .container > button:hover {
+            color: orange;
+            background-color: white;
+            transition: 0.5s;
+        }
